@@ -26,9 +26,12 @@
 <!-- SOBRE -->
 <i>
  Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa realidade. 
+ 
  Sou mono Kassadin, apreciadora de sushi, xburger e maratonista de séries e filmes.
 
- Iniciei em 2023 minha jornada como aluna de desenvolvimento de software com foco em backend ministrado pela Cubos Academy, estou aprendendo e desenvolvendo projetos em Node.js, SQL e Postgres. Movida pela infinita curiosidade, em paralelo estudo diversas outras coisas. </i>
+ Iniciei em 2023 minha jornada como aluna de desenvolvimento de software com foco em backend ministrado pela Cubos Academy, estou aprendendo e desenvolvendo projetos em Node.js, SQL e Postgres. 
+ 
+ Movida pela infinita curiosidade, em paralelo estudo diversas outras coisas. </i>
 
 
 <!-- SKILLS -->
