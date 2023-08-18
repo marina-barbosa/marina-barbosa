@@ -11,7 +11,8 @@
  
 </div>
 
-
+<br>
+<br>
 <!-- CONTATOS -->
 <div align="center"> 
  
@@ -31,8 +32,13 @@
 
 
 <!-- SKILLS -->
- # I code with:   
- <div align="center"">
+<br>
+<br>
+ 
+ <div align="center">
+  
+  # I code with:
+  
   <div name="skills">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
@@ -50,7 +56,7 @@
     
     
   <!-- STATUS -->
- <div name="status" ">
+ <div name="status" >
   <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  </div>
 
@@ -78,12 +84,15 @@
 
 <!-- VISITANTES -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+ <br>
+ <br>
+ <br>
+Visitors Count 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marina-barbosa}/count.svg" /></p> 
 <br>
 </div>
 
-<div align="center"">
+<div align="center">
         Random Dev Meme 😂
 </div> 
  
