@@ -18,7 +18,7 @@
  
 <a href = "mailto:marinabarbosa.exp@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marina-barbosa-exp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="13996697841" style="border-radius: 30px" target="_blank"></a>
+<a href="13996697841" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="13996697841" style="border-radius: 30px" target="_blank"></a>
 
 </div>
 
