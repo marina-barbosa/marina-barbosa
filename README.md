@@ -42,7 +42,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  
  <div align="center">
   
-  # I code with:
+>  # I code with:
   
   <div name="skills">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -68,31 +68,24 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 
 <!-- STUDYING -->
 
- # Studying in this moment:
+> # Studying in this moment:
 
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />    
     
 </div>
 
 <!-- ## Meu projeto:
 ⭐️ Se gostar deixe uma estrela.
-✔️ [Echos of Arcanum](#): Meu joguinho. -->
+✔️ [Um-Jogo](#): Meu joguinho. -->
 
-<!-- VISITANTES -->
-<div align="center">
- <br>
- <br>
- <br>
-Visitors Count 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marina-barbosa}/count.svg" /></p> 
-<br>
-</div>
+
+
 
 <div align="center">
         Random Dev Meme 😂
