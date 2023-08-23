@@ -42,7 +42,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  
  <div align="center">
   
->  # I code with:
+> # I code with:
   
   <div name="skills">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -87,7 +87,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 
 
 
-| <img src="https://github.com/marina-barbosa/Um-Jogo/raw/master/imagens/Screenshot_1.png" width="500"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="450"> |
+| <img src="https://github.com/marina-barbosa/Um-Jogo/raw/master/imagens/Screenshot_1.png" width="500"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="400"> |
 |:---:|:---:|
 | [um-jogo](https://github.com/marina-barbosa/Um-Jogo) - - - - [Jogar agora](https://marina-barbosa.github.io/Um-Jogo/) | [CRUD banco digital](https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful) |
 
