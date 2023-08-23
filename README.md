@@ -80,9 +80,18 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
     
 </div>
 
-<!-- ## Meu projeto:
+> # Main Projects:
+ 
 ⭐️ Se gostar deixe uma estrela.
-✔️ [Um-Jogo](#): Meu joguinho. -->
+<br>
+
+
+
+| <img src="https://github.com/marina-barbosa/Um-Jogo/raw/master/imagens/Screenshot_1.png" width="500"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="450"> |
+|:---:|:---:|
+| [um-jogo](https://github.com/marina-barbosa/Um-Jogo) - - - - [Jogar agora](https://marina-barbosa.github.io/Um-Jogo/) | [CRUD banco digital](https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful) |
+
+
 
 
 
