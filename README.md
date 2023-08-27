@@ -87,7 +87,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 
 
 
-| <img src="https://github.com/marina-barbosa/Um-Jogo/blob/master/captura-de-tela-gif.gif" width="430"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="370"> |
+| <img src="https://github.com/marina-barbosa/Um-Jogo/blob/master/captura-de-tela-gif.gif" width="420"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="360"> |
 |:---:|:---:|
 | [um-jogo](https://github.com/marina-barbosa/Um-Jogo)   /   [Jogar agora](https://marina-barbosa.github.io/Um-Jogo/) | [CRUD banco digital](https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful) |
 
