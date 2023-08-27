@@ -96,13 +96,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 
 
 
-<div align="center">
-        Random Dev Meme 😂
-</div> 
- 
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-</div>
+<br>
 
 
 <!-- FOOTER -->
