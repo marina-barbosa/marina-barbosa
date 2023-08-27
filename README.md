@@ -16,9 +16,9 @@
 <!-- CONTATOS -->
 <div align="center"> 
  
-<a href = "mailto:marinabarbosa.exp@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="130" height="32" alt="gmail logo" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/marina-barbosa-exp/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="32" alt="linkedin" style="border-radius: 30px" target="_blank"></a> 
-<a href = "13996697841"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130" height="32" alt="zap 13996697841" style="border-radius: 30px" target="_blank"></a>
+<a href = "mailto:marinabarbosa.exp@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="120" height="32" alt="gmail logo" style="border-radius: 30px" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/marina-barbosa-exp/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="32" alt="linkedin" style="border-radius: 30px" target="_blank"></a> 
+<a href = "13996697841"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120" height="32" alt="zap 13996697841" style="border-radius: 30px" target="_blank"></a>
 
 </div>
 
@@ -43,7 +43,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 <!-- SKILLS -->
 <div align="center"> 
  
-> ### I code with:
+### I code with:
 <br>
 <div name="skills"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  /> 
@@ -54,19 +54,19 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  /> 
  
- ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
+ ![Insomnia](https://img.shields.io/badge/Insomnias-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
 </div>
  
 <!-- STATUS --> 
 <div name="status" > 
- <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=161b22" /> 
+ <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
 </div>
 
 <br>
 <br>
 
 <!-- STUDYING -->
-> ### Studying in this moment:
+### Studying in this moment:
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  /> 
@@ -80,14 +80,13 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 <br>
 
 <!-- PROJECTS -->
-> ### Main Projects: 
+### Main Projects: 
 ⭐️ Se gostar deixe uma estrela ⭐️
 
 | <img src="https://github.com/marina-barbosa/Um-Jogo/blob/master/captura-de-tela-gif.gif" width="420"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="360"> |
 |:---:|:---:|
 | [um-jogo](https://github.com/marina-barbosa/Um-Jogo)   /   [Jogar agora!](https://marina-barbosa.github.io/Um-Jogo/) | [CRUD banco digital](https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful) |
 
-<br>
 <br>
 
 <!-- FOOTER -->
