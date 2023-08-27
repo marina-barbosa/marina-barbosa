@@ -43,7 +43,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 <!-- SKILLS -->
 <div align="center"> 
  
-### I code with:
+### 🔸 I code with 👾
 <br>
 <div name="skills"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  /> 
@@ -66,7 +66,7 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 <br>
 
 <!-- STUDYING -->
-### Studying in this moment:
+### 🔸 Studying in this moment 📚
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  /> 
@@ -80,8 +80,8 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
 <br>
 
 <!-- PROJECTS -->
-### Main Projects: 
-⭐️ Se gostar deixe uma estrela ⭐️
+### ⭐️ Main Projects
+ Se gostar deixe uma estrela ⭐️
 
 | <img src="https://github.com/marina-barbosa/Um-Jogo/blob/master/captura-de-tela-gif.gif" width="420"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="360"> |
 |:---:|:---:|
