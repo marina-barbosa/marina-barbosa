@@ -1,4 +1,6 @@
-
+<!-- GATINHO
+  <img width="100%" src="https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif" border="0" />
+-->
 
 <!-- BORDA -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
