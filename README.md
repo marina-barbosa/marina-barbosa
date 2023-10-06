@@ -56,7 +56,8 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  /> 
- <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="50" alt="express logo"  /> 
+ <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="50" alt="express logo"  />
+ <img src="https://github.com/marina-barbosa/marina-barbosa/blob/main/insomnia-svgrepo-com.svg" height="50" alt="insomnia logo"  />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgres logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />  
 
