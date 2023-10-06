@@ -59,10 +59,9 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="50" alt="express logo"  />
  <img src="https://github.com/marina-barbosa/marina-barbosa/blob/main/insomnia-svgrepo-com.svg" height="50" alt="insomnia logo"  />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgres logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />  
-
+ <img src="https://github.com/marina-barbosa/marina-barbosa/blob/main/p5.js-bg.png" height="50" alt="p5.js logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  /> 
  
- ![Insomnia](https://img.shields.io/badge/Insomnias-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
 </div>
 
 <br>
