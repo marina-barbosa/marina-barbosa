@@ -85,6 +85,8 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  /> 
   <img width="6" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  /> 
+  <img width="6" />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  /> 
  
 </div>
   <!--
@@ -94,7 +96,6 @@ Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa reali
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" height="55" alt="prisma logo"  /> 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" height="55" alt="jestjs logo"  /> 
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" height="55" alt="nestjs logo"  /> 
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  /> 
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="50" alt="react logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />    
