@@ -86,13 +86,15 @@
 
 
 
-<!-- PROJECTS -->
+<!-- PROJECTS
 ### Main Projects
  Se gostar deixe uma estrela ⭐️
 | <img src="https://github.com/marina-barbosa/Um-Jogo/blob/master/captura-de-tela-gif.gif" width="420"> | <img src="https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful/raw/master/gif-crud-banco-digital.gif" width="360"> |
 |:---:|:---:|
 | [um-jogo](https://github.com/marina-barbosa/Um-Jogo)   /   [Jogar agora!](https://marina-barbosa.github.io/Um-Jogo/) | [CRUD banco digital](https://github.com/marina-barbosa/Banco-Digital-API-CRUD-RESTful) |
 <br>
+
+ -->
 
 
 
