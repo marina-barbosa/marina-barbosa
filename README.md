@@ -32,14 +32,20 @@
  
 <!-- SOBRE -->
  ```
- Desde cedo, entusiasta da tecnologia e do seu poder de transformar a nossa realidade. 
- 
- Sou mono Kassadin, apreciadora de sushi e maratonista de séries.
+ 🔸 Mono Kassadin, apreciadora de sushi e maratonista de séries.
 
- Iniciei em 2023 minha jornada como aluna de desenvolvimento de software com foco em backend ministrado pela Cubos Academy,
- estou aprendendo e desenvolvendo projetos em Node.js, SQL e Postgres. 
+
+🔸 Em andamento: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Testing Library,
+Java, MySQL, Spring Boot, Swagger, JPA, Testes de Unidade e Integração com JUnit e Mockito e CI/CD
+pela PraTi em parceria com a Codifica Edu (2024).
+
+🔸 Em andamento: TreinaDev12 com TDD, Ruby on Rails e Vue pela Campus Code (2024).
  
- Movida pela infinita curiosidade, em paralelo estudo diversas outras coisas.
+Certificados:
+
+🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL pela Cubos Academy em parceria com iFood.
+
+🔸 2023: Desenvolvimento Fullstack com Angular, C# e .Net pela Ímã Tech em parceria com a MXM Sistemas.
 ```
 
 
