@@ -36,7 +36,7 @@
 
 
 🔸 Em andamento: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Testing Library,
-Java, MySQL, Spring Boot, Swagger, JPA, Testes de Unidade e Integração com JUnit e Mockito e CI/CD
+Java, MySQL, Spring Boot, Swagger, JPA, Testes de Unidade e Integração com JUnit e Mockito, Scrum, Kanban e CI/CD
 pela PraTi em parceria com a Codifica Edu (2024).
 
 🔸 Em andamento: TreinaDev12 com TDD, Ruby on Rails e Vue pela Campus Code (2024).
