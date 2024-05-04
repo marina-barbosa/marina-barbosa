@@ -55,18 +55,20 @@ Certificados:
 <br>
 <br>  
   
-<!-- STATUS --> 
 ### 🔸 I code with 🔸
-<img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
-<br>
-<br>
-
-
 
 
 <!-- SKILLS -->
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres,git" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=p5js,figma,css,html,bootstrap" /></a></p>
+
+
+<!-- STATUS --> 
+<img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
+<br>
+<br>
+
+
 
 
 👾
