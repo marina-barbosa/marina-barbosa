@@ -117,7 +117,7 @@ Certificados:
 
 <br>
 <br>
-<img src="1704477340007.jpg" />
+<img src="_a496aef5-d97c-47f5-8490-99dfd964627f.jpg" />
 
 
 
