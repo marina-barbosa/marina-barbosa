@@ -40,7 +40,7 @@
 
 Em andamento: 
 
-🔸 2024: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Testing Library, 
+🔸 2024: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Test Library, 
    Java, MySQL, Spring Boot, JPA, Testes de Unidade e Integração com JUnit e Mockito, Scrum, Kanban e CI/CD 
    pela PraTi em parceria com a Codifica Edu.
 
