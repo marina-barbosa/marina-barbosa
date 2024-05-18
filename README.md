@@ -59,8 +59,8 @@ Certificados:
 
 
 <!-- SKILLS -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres,git" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=p5js,figma,css,html,bootstrap" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres,ruby,rails" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=p5js,figma,css,html,bootstrap,git" /></a></p>
 
 
 <!-- STATUS --> 
@@ -77,8 +77,8 @@ Certificados:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,typescript,cs,dotnet,ruby" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rails,vue,react,java,spring" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,typescript,cs,dotnet" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,react,java,spring" /></a></p>
   <!--
   prisma,jestjs,nestjs,react,java,spring,mongodb,rails,redis,replit,tailwind
   aws,clojure,elixir,golang,rust,dart,flutter,docker,electron,firebase,next,unity,
