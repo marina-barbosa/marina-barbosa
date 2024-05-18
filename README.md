@@ -34,24 +34,27 @@
  
  
 <!-- SOBRE -->
-
+<pre>
   
 🔸 Mono Kassadin, apreciadora de sushi e maratonista de séries.
 
 Em andamento: 
 
-🔸 2024: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Testing Library, Java, MySQL, Spring Boot, Swagger, 
-   JPA, Testes de Unidade e Integração com JUnit e Mockito, Scrum, Kanban e CI/CD pela PraTi em parceria com a Codifica Edu.
+🔸 2024: Developer Fullstack Júnior com React, Redux, Design, Testes Unitários com Jest e React Testing Library, 
+   Java, MySQL, Spring Boot, JPA, Testes de Unidade e Integração com JUnit e Mockito, Scrum, Kanban e CI/CD 
+   pela PraTi em parceria com a Codifica Edu.
 
 🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js pela Campus Code.
 
 Certificados: 
 
-🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL pela Cubos Academy em parceria com iFood.
+🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL 
+   pela Cubos Academy em parceria com iFood.
 
-🔸 2023: Desenvolvimento Fullstack com Angular, C# e .Net pela Ímã Tech em parceria com a MXM Sistemas.
+🔸 2023: Desenvolvimento Fullstack com Angular, C# e .Net 
+   pela Ímã Tech em parceria com a MXM Sistemas.
 
-
+</pre>
 
 <div align="center">
 <br>
