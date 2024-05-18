@@ -64,7 +64,7 @@ Certificados:
 <br>
 <br>  
   
-### 🔸 I code with 🔸
+### 🔸 I dev with 🔸
 
 
 <!-- SKILLS -->
@@ -115,8 +115,9 @@ Certificados:
 
  -->
 
-
- <img src="1704477340007.jpg" />
+<br>
+<br>
+<img src="1704477340007.jpg" />
 
 
 
