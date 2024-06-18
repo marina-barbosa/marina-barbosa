@@ -50,7 +50,7 @@ Em andamento:
 
 Concluidos: 
   
-  🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
+🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
    pela Campus Code.
 
 🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL 
