@@ -47,10 +47,11 @@ Em andamento:
    Scrum, Kanban e CI/CD 
    pela PraTi em parceria com a Codifica Edu.
 
-🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
-   pela Campus Code.
 
-Certificados: 
+Concluidos: 
+  
+  🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
+   pela Campus Code.
 
 🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL 
    pela Cubos Academy em parceria com iFood.
