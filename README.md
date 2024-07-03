@@ -45,7 +45,7 @@ Em andamento:
    Java, MySQL, Spring Boot, JPA, 
    Testes de Unidade e Integração com JUnit e Mockito, 
    Scrum, Kanban e CI/CD 
-   pela PraTi em parceria com a Codifica Edu.
+   pela +PraTi em parceria com a Codifica Edu.
 
 
 Concluidos: 
