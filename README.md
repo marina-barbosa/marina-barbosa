@@ -87,14 +87,23 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,angular,typescript,cs,dotnet,tailwind" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,react,next,java,spring" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,cs,dotnet,react" /></a></p>
+<br>
+<br>
+
+
+### 🔸 Next on the list 🔸
+
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,typescript,java,spring" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,vue,tailwind" /></a></p>
+
   <!--
   prisma,jestjs,nestjs,mongodb,redis,replit,tailwind
   aws,azure,clojure,elixir,golang,rust,dart,flutter,docker,electron,firebase,next,unity,
   https://skillicons.dev/
   https://techstack-generator.vercel.app/ 
  --> 
+
 <br>
 <br>
 
