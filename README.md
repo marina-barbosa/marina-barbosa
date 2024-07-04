@@ -69,6 +69,7 @@ Concluidos:
 
 
 <!-- SKILLS -->
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres,ruby,rails" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=p5js,figma,css,html,bootstrap,git" /></a></p>
 
@@ -87,7 +88,7 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,cs,dotnet,react" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,jest,docker" /></a></p>
 <br>
 <br>
 
@@ -98,8 +99,12 @@ Concluidos:
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,vue,tailwind" /></a></p>
 
   <!--
-  prisma,jestjs,nestjs,mongodb,redis,replit,tailwind
-  aws,azure,clojure,elixir,golang,rust,dart,flutter,docker,electron,firebase,next,unity,
+  jasmine,karma,selenium,cypress
+  styledcomponent,replit
+  prisma,nestjs,
+  supabase,firebase,redis,mongodb,mysql
+  aws,azure,
+  clojure,elixir,rust,dart,flutter,electron,unity,
   https://skillicons.dev/
   https://techstack-generator.vercel.app/ 
  --> 
