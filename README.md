@@ -70,7 +70,7 @@ Concluidos:
 
 <!-- SKILLS -->
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,css,html,git" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,styledcomponents,css,html,git" /></a></p>
 
 
 
@@ -102,16 +102,17 @@ Concluidos:
 
 ### 🔸 Next on the list 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,go,mysql,mongo" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redux,jest,vue" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,go,mysql,redux,jest" /></a></p>
 
   <!--
-  jasmine,karma,selenium,cypress
-  styledcomponent,replit
+  graphql,vue,redis,mongo
+  aws,azure,cypress,selenium
+  jasmine,karma,xunit
+  replit
   prisma,nestjs,
-  supabase,firebase,redis,mongodb,mysql
-  aws,azure,
+  supabase,firebase
   clojure,elixir,rust,dart,flutter,electron,unity,
+  rspec,capybara
   https://skillicons.dev/
   https://techstack-generator.vercel.app/ 
  --> 
