@@ -74,7 +74,7 @@ Concluidos:
 
 
 
-### 🔸 Familiar but Less Used 🔸 
+### 🔸 Familiar but less used 🔸 
 
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,typescript" /></a></p>
