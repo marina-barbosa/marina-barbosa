@@ -40,6 +40,8 @@
 
 Em andamento: 
 
+🔸 2024: Engenharia de Software pela Universidade Unopar Anhanguera.
+
 🔸 2024: Developer Fullstack Júnior com React, Redux, Design, 
    Testes Unitários com Jest e React Testing Library, 
    Java, MySQL, Spring Boot, JPA, 
@@ -77,7 +79,7 @@ Concluidos:
 ### 🔸 Familiar but less used 🔸 
 
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,typescript" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,dotnet,ruby,rails,typescript" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap,p5js,figma" /></a></p>
 
 
@@ -95,14 +97,14 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,next,docker" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,next,docker" /></a></p>
 <br>
 <br>
 
 
 ### 🔸 Next on the list 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,go,mysql,redux,jest" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,mysql,redux,jest" /></a></p>
 
   <!--
   graphql,vue,redis,mongo
