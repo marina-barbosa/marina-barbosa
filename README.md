@@ -72,15 +72,15 @@ Concluidos:
 
 <!-- SKILLS -->
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,styledcomponents,css,html,git" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,css,html,git" /></a></p>
 
 
 
 ### 🔸 Familiar but less used 🔸 
 
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,dotnet,ruby,rails,typescript" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap,p5js,figma" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,dotnet,ruby,rails,mysql" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,angular,styledcomponents,bootstrap,p5js,figma" /></a></p>
 
 
 <!-- STATUS --> 
@@ -97,14 +97,14 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,next,docker" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,docker" /></a></p>
 <br>
 <br>
 
 
 ### 🔸 Next on the list 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,mysql,redux,jest" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,go,redux,jest" /></a></p>
 
   <!--
   graphql,vue,redis,mongo
