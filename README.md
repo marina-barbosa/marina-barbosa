@@ -42,15 +42,14 @@ Em andamento:
 
 🔸 2024: Engenharia de Software pela Universidade Unopar Anhanguera.
 
-🔸 2024: Developer Fullstack Júnior com React, Redux, Design, 
-   Testes Unitários com Jest e React Testing Library, 
-   Java, MySQL, Spring Boot, JPA, 
+
+Concluidos:
+  
+🔸 2024: Developer Fullstack Júnior com React, Design, 
+   Testes Unitários com Jest, Java, MySQL, Spring Boot, JPA, 
    Testes de Unidade e Integração com JUnit e Mockito, 
    Scrum, Kanban e CI/CD 
    pela +PraTi em parceria com a Codifica Edu.
-
-
-Concluidos: 
   
 🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
    pela Campus Code.
@@ -71,16 +70,16 @@ Concluidos:
 
 
 <!-- SKILLS -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,postgres" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,css,html,git" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,dotnet,nodejs,express,postgres" /></a></p>
+<!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,cs,javascript,typescript" /></a></p> -->
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind,css,html,git" /></a></p>
 
 
 
 ### 🔸 Familiar but less used 🔸 
 
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,dotnet,ruby,rails,mysql" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,angular,styledcomponents,bootstrap,p5js,figma" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby,rails,mysql,styledcomponents,bootstrap,p5js,figma" height="30" /></a></p>
 
 
 <!-- STATUS --> 
@@ -97,14 +96,14 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,docker" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></p>
 <br>
 <br>
 
 
 ### 🔸 Next on the list 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,go,redux,jest" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,go,redux,jest" height="30" /></a></p>
 
   <!--
   graphql,vue,redis,mongo
