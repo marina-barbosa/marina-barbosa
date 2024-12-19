@@ -70,16 +70,37 @@ Concluidos:
 
 
 <!-- SKILLS -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,dotnet,nodejs,express,postgres" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,nodejs,postgres,jest" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,dotnet,express" /></a></p>
 <!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,cs,javascript,typescript" /></a></p> -->
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind,css,html,git" /></a></p>
+<!--  // aqui esta faltando JUnit, xUnit e React Testing Library -->
 
 
 
+
+
+
+<!--
 ### 🔸 Familiar but less used 🔸 
 
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby,rails,mysql,styledcomponents,bootstrap,p5js,figma" height="30" /></a></p>
+-->
+
+
+<!-- STUDYING -->
+### 🔸 Studying in this moment 🔸
+
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,typescript" /></a></p>
+<br>
+<br>
+
+ <!--
+### 🔸 Next on the list 🔸
+
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,go,redux" height="30" /></a></p>
+ --> 
 
 
 <!-- STATUS --> 
@@ -93,17 +114,7 @@ Concluidos:
 👾
 
 
-<!-- STUDYING -->
-### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></p>
-<br>
-<br>
-
-
-### 🔸 Next on the list 🔸
-
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,go,redux,jest" height="30" /></a></p>
 
   <!--
   graphql,vue,redis,mongo
