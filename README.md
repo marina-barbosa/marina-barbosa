@@ -46,12 +46,10 @@ Em andamento:
 Concluidos:
   
 🔸 2024: Developer Fullstack Júnior com React, Design, 
-   Testes Unitários com Jest, Java, MySQL, Spring Boot, JPA, 
-   Testes de Unidade e Integração com JUnit e Mockito, 
-   Scrum, Kanban e CI/CD 
+   Testes Unitários com Jest, Java, MySQL, Spring Boot, JPA, JUnit 
    pela +PraTi em parceria com a Codifica Edu.
   
-🔸 2024: TreinaDev 12, TDD com Ruby on Rails e Vue.js 
+🔸 2024: TreinaDev 12, TDD com Ruby on Rails, RSpec, Capybara
    pela Campus Code.
 
 🔸 2023: Desenvolvimento Backend com JavaScript, Node.js, Express.js e PostgreSQL 
