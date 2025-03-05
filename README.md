@@ -40,15 +40,21 @@
 
 Em andamento: 
 
-🔸 2025: Bootcamp ONP. Desenvolvimento de e-commerce com Next.js, 
-  metodologias ágeis (Daily, Sprint Review, Code Review), 
-  experiência prática com servidores de desenvolvimento, homologação e produção, 
-  além de colaboração com PO e QA.
+Em andamento: 
   
 🔸 2024: Engenharia de Software pela Universidade Unopar Anhanguera.
 
 
 Concluidos:
+
+🔸 2025: Formação Fullstack com Java, JUnit, 
+  Javascript, Jest, HTML, CSS, PostgrSQL 
+  pela CWI no programa Crescer Lvl. 1.
+
+🔸 2025: Bootcamp ONP. Desenvolvimento de e-commerce com Next.js, 
+  metodologias ágeis (Daily, Sprint Review, Code Review), 
+  experiência prática com servidores de desenvolvimento, homologação e produção, 
+  além de colaboração com PO e QA.
   
 🔸 2024: Developer Fullstack Júnior com React, Design, 
    Testes Unitários com Jest, Java, MySQL, Spring Boot, JPA, JUnit 
