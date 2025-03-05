@@ -38,7 +38,6 @@
   
 🔸 Mono Kassadin, apreciadora de sushi e maratonista de séries.
 
-Em andamento: 
 
 Em andamento: 
   
