@@ -78,8 +78,8 @@ Concluidos:
 
 
 <!-- SKILLS -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,nodejs,postgres,jest" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,dotnet,express" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,next,postgres,jest,nodejs" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,express" /></a></p>
 <!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,cs,javascript,typescript" /></a></p> -->
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind,css,html,git" /></a></p>
 <!--  // aqui esta faltando JUnit, xUnit e React Testing Library -->
@@ -100,7 +100,7 @@ Concluidos:
 <!-- STUDYING -->
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,typescript" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></p>
 <br>
 <br>
 
@@ -112,9 +112,10 @@ Concluidos:
 
 
 <!-- STATUS --> 
-<img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
+
+<!-- <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
 <br>
-<br>
+<br> -->
 
 
 
