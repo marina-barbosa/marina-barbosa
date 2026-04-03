@@ -19,8 +19,8 @@
 
 
 <!-- CONTATOS -->
-<a href="mailto:marinabarbosa.exp@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="120" height="32" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/marina-barbosa-exp/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="32" alt="linkedin" style="border-radius: 30px" target="_blank"></a> 
+<a href="mailto:marinabarbosa.exp@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="120" height="29" style="border-radius: 30px" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/marina-barbosa-exp/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="29" alt="linkedin" style="border-radius: 30px" target="_blank"></a> 
 <a href = "https://wa.me/qr/BN36YTUIUJVMA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120" height="32" alt="zap 13996697841" style="border-radius: 30px" target="_blank"></a>
 </div>
 <br>
@@ -35,6 +35,36 @@
  
 <!-- SOBRE -->
 <pre>
+<pre>
+  
+Turning ideas into functional and scalable products.
+
+Bridging development and customer experience.
+  
+
+🔸 Mono Kassadin, sushi lover & series binge-watcher
+  
+
+Main stack:
+
+🔸 TypeScript • Next
+  
+
+Exploring:
+
+🔸 Architectures & scalable systems
+  
+
+Currently building at:
+
+🔸 https://www.comuniverso.co/  
+</pre>
+
+</pre>
+
+<!--
+
+<pre>
   
 🔸 Mono Kassadin, apreciadora de sushi e maratonista de séries.
 
@@ -44,7 +74,7 @@ Em andamento:
 🔸 2024: Engenharia de Software pela Universidade Unopar Anhanguera.
 
 
-Concluidos:
+ Concluidos:
 
 🔸 2025: Formação Fullstack com Java, JUnit, 
   Javascript, Jest, HTML, CSS, PostgrSQL 
@@ -66,22 +96,24 @@ Concluidos:
    pela Cubos Academy em parceria com iFood.
 
 🔸 2023: Desenvolvimento Fullstack com Angular, C# e .Net 
-   pela Ímã Tech em parceria com a MXM Sistemas.
-
+   pela Ímã Tech em parceria com a MXM Sistemas. 
 </pre>
-
+-->
 <div align="center">
+  
+<!--
 <br>
 <br>  
   
 ### 🔸 I dev with 🔸
-
+-->
 
 <!-- SKILLS -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,next,postgres,jest,nodejs" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,express" /></a></p>
+
+<!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,next,postgres,jest,nodejs" /></a></p> -->
+<!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,express" /></a></p> -->
 <!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,cs,javascript,typescript" /></a></p> -->
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind,css,html,git" /></a></p>
+<!-- <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,tailwind,css,html,git" /></a></p> -->
 <!--  // aqui esta faltando JUnit, xUnit e React Testing Library -->
 
 
@@ -98,11 +130,13 @@ Concluidos:
 
 
 <!-- STUDYING -->
+<!--
 ### 🔸 Studying in this moment 🔸
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></p>
+ <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></p> 
 <br>
 <br>
+-->
 
  <!--
 ### 🔸 Next on the list 🔸
@@ -114,8 +148,11 @@ Concluidos:
 <!-- STATUS --> 
 
 <!-- <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-barbosa&layout=compact&hide_border=true&title_color=ff91a4&text_color=fff&bg_color=161b22" /> 
-<br>
 <br> -->
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -144,8 +181,10 @@ Concluidos:
 
 
 <!-- CODEWARS -->
-<p align="center"><a href="https://www.codewars.com/users/marina-barbosa"><img width="420" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=marina-barbosa&theme=halloween"></a></p>
+<!-- 
+<p align="center"><a href="https://www.codewars.com/users/marina-barbosa"><img width="420" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=marina-barbosa&theme=halloween"></a></p> 
 <br>
+-->
 
 
 
@@ -161,7 +200,7 @@ Concluidos:
 
 <br>
 <br>
-<img src="_a496aef5-d97c-47f5-8490-99dfd964627f.jpg" />
+<!-- <img src="_a496aef5-d97c-47f5-8490-99dfd964627f.jpg" /> -->
 
 
 
